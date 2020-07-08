@@ -1,0 +1,2 @@
+wget -O 'kplr012644769-20160128150956_dvt.fits' 'http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//KeplerDV/005/713/24/kplr012644769-20160128150956_dvt.fits' -a raw_2269.log
+wget -O 'kplr012644769_q1_q16_tce_01_dvt_lc.tbl' 'http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//KeplerDV/000/866/64/kplr012644769_q1_q16_tce_01_dvt_lc.tbl' -a raw_1413.log

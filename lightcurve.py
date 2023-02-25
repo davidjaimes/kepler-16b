@@ -3,7 +3,10 @@ from astropy.time import Time
 import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
 import pandas as pd
+import mpl_style
 
+
+plt.style.use(mpl_style.greyfox)
 fname = 'kplr012644769-20160128150956_dvt.fits'
 hdu = fits.open(f'data/{fname}')
 data = hdu[1].data

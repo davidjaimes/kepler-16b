@@ -57,4 +57,4 @@ plt.savefig('kepler-16.png', dpi=300)
 
 # Figure
 
-![kepler-16](../../images/kepler-16.png)
+![kepler-16](kepler-16.png)
